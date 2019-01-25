@@ -1,6 +1,7 @@
 # Ideate-for-India
 
 ## Index
+* [To-Do](#To-Do)
 * [Problem](#Problem)
 * [WorkFlow](#WorkFlow)
 * [Solution](#Solution)
@@ -8,6 +9,14 @@
   * [Garuda](#Garuda)
   * [Sheesh](#Sheesh)
   * [Vasuki](#Vasuki)
+
+----
+
+## To-Do
+- [x] Design AQI Monitoring Program
+- [x] Design Autonomous Drone Program
+- [x] Design Photocatalytic Purifier
+- [ ] Build the modules
 
 ----
 
