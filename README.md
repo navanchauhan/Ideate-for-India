@@ -43,6 +43,11 @@ Script demo here:
 ----
 
 ## Modules
+
+It is a tri-fold modular solution. The Drone Modules are to be constructed using raspberry-pi zero or another suitable microcontroler (They are inherrently cheap). Because this is a modular solution, even if one module fails, the others can take over. For e.g If the DGCA doesn't allow the flight of drones temporarily, the Sheesh module can run for extra duration to compensate for them.
+
+The base drone is fully autonomous and can be remotely controlled from anywhere, it uses magnets to align the modules with the correct port. **An alternative method is to have two seperate drones.** 
+
 ### Garuda Module
 Garuda is going to be a mini drone with a DIY mini HEPA filter, which could suck in PM2.5 Pollutants
 
